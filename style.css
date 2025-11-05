@@ -21,7 +21,7 @@ body{
     
 }
 .container{
-    border: 2px solid rgb(25, 158, 10);
+    /* border: 2px solid rgb(25, 158, 10); */
      height: 450px;
     width: 25%;
     display: flex;
