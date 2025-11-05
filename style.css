@@ -33,7 +33,7 @@ body{
 }
 .sub-container{
     /* border: 2px solid red; */
-       height: 420px;
+       /* height: 420px; */
        margin-top: 12px;
        width: 80%;
        
@@ -84,20 +84,20 @@ p{
 @media (max-width :1024px) {
     .container{
         width: 40%;
-        height: auto;
+        height: 450px;
     }
 }
 @media (max-width :768px) {
     .container{
         width: 50%;
-        height: auto;
+         height: 450px;
     }
 }
 @media (max-width :618px) {
     .container{
         width: 60%;
        
-        height: auto;
+      height: 450px;
     }
 }
 @media (max-width :518px){
